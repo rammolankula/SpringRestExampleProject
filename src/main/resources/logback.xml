@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration  scan="true" scanPeriod="30 seconds">
+<property name="logging.log_dir" value="./logs"/>
+ <property name="infoLogName" value="Rest-learn"/>
+ 
+    <appender name="dailyRollingFileAppender" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <File>${logging.log_dir}/${infoLogName}.log</File>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+ <FileNamePattern>${logging.log_dir}/${infoLogName}.%d{yyyy-MM-dd}.log</FileNamePattern> 
+            <maxHistory>30</maxHistory>            
+        </rollingPolicy>
+        <encoder>
+            <Pattern>%d [%thread] %-5level %logger{35} [%file:%line] - %msg %n</Pattern>
+        </encoder>         
+    </appender>
+    
+    <appender name="upixmllog" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <File>${logging.log_dir}/RestLearn.log</File>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+ 		<FileNamePattern>${logging.log_dir}/upixml.%d{yyyy-MM-dd}.log</FileNamePattern> 
+            <maxHistory>30</maxHistory>            
+        </rollingPolicy>
+        <encoder>
+            <Pattern>%d [%thread] %-5level %logger{35} [%file:%line] - %msg %n</Pattern>
+        </encoder>         
+    </appender>
+    
+     <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <layout class="ch.qos.logback.classic.PatternLayout">
+            <Pattern>
+                %d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n
+            </Pattern>
+        </layout>
+    </appender>
+    
+     <logger name="olivecrypto.hostsim" additivity="false">
+        <level value="DEBUG" />
+        <appender-ref ref="dailyRollingFileAppender"/>
+<!--          <appender-ref ref="CONSOLE"/> -->
+    </logger>
+    
+        <logger name="olivecrypto.simbank" additivity="false">
+        <level value="DEBUG" />
+        <appender-ref ref="dailyRollingFileAppender"/>
+<!--          <appender-ref ref="CONSOLE"/> -->
+    </logger>
+        <logger name="olivecrypto" additivity="false">
+        <level value="DEBUG" />
+        <appender-ref ref="dailyRollingFileAppender"/>
+          <appender-ref ref="CONSOLE"/>  
+    </logger>
+    
+ 
+    
+     <logger name="ram.learn" additivity="false">
+        <level value="DEBUG" />
+        <appender-ref ref="dailyRollingFileAppender"/>
+          <appender-ref ref="CONSOLE"/>  
+    </logger>
+    
+    
+    <logger name="ram.learn" additivity="false">
+        <level value="DEBUG" />
+        <appender-ref ref="dailyRollingFileAppender"/>
+          <appender-ref ref="CONSOLE"/>  
+    </logger>
+       <logger name="ram.learn" additivity="false">
+        <level value="DEBUG" />
+        <appender-ref ref="dailyRollingFileAppender"/>
+          <appender-ref ref="CONSOLE"/>  
+    </logger>
+    <logger name="Learn_xml" additivity="false">
+		<level value="DEBUG"/>
+		<appender-ref ref="upixmllog"/> 
+	</logger>
+    
+    <root level="debug">
+        <appender-ref ref="dailyRollingFileAppender"/>
+    </root>
+ 
+
+    <root level="error">
+        <appender-ref ref="CONSOLE"/>
+    </root>
+
+
+</configuration>
