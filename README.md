@@ -21,3 +21,5 @@
 ### /GetOne Record
 #### Get one Student object based on Id (@Pathvariable) if exist the student
 #### object it return the Student object else it return the String message
+#### Delete a record based id by using @PathVariable it will check the data.
+#### if it is exist it will return the record else it will the message like Data not found
