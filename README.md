@@ -18,3 +18,6 @@
 #### i)Fetch all rows from the DataBase by using service
 #### ii)Sort the data by using name,Return as JSON
 #### iii)Else message part return the No data found and catch block give the response as unable to fetch the data*/
+### /GetOne Record
+#### Get one Student object based on Id (@Pathvariable) if exist the student
+#### object it return the Student object else it return the String message
