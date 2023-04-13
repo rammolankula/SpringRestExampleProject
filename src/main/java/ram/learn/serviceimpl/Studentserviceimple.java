@@ -27,8 +27,8 @@ public class Studentserviceimple implements Stdserviceinterface{
 	}
 
 	@Override
-	public void deleteStudent(Integer Id) {
-        repo.deleteById(Id);		
+	public void deleteStudent(Integer id) {
+        repo.deleteById(id);		
 	}
 
 	@Override

@@ -1,81 +1,11 @@
-2022-08-21 14:41:36,468 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:55] - Starting RestExample using Java 1.8.0_281 on DESKTOP-EJDCSSH with PID 7836 (D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject\bin\main started by Ram iT in D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject) 
-2022-08-21 14:41:36,476 [restartedMain] DEBUG ram.learn.RestExample [StartupInfoLogger.java:56] - Running with Spring Boot v2.7.2, Spring v5.3.22 
-2022-08-21 14:41:36,476 [restartedMain] INFO  ram.learn.RestExample [SpringApplication.java:634] - No active profile set, falling back to 1 default profile: "default" 
-2022-08-21 14:41:42,216 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:61] - Started RestExample in 6.097 seconds (JVM running for 6.816) 
-2022-08-21 14:43:39,807 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:55] - Starting RestExample using Java 1.8.0_281 on DESKTOP-EJDCSSH with PID 13904 (D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject\bin\main started by Ram iT in D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject) 
-2022-08-21 14:43:39,807 [restartedMain] DEBUG ram.learn.RestExample [StartupInfoLogger.java:56] - Running with Spring Boot v2.7.2, Spring v5.3.22 
-2022-08-21 14:43:39,807 [restartedMain] INFO  ram.learn.RestExample [SpringApplication.java:634] - No active profile set, falling back to 1 default profile: "default" 
-2022-08-21 14:43:45,695 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:61] - Started RestExample in 6.235 seconds (JVM running for 6.821) 
-2022-08-21 14:46:05,667 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:55] - Starting RestExample using Java 1.8.0_281 on DESKTOP-EJDCSSH with PID 14224 (D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject\bin\main started by Ram iT in D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject) 
-2022-08-21 14:46:05,675 [restartedMain] DEBUG ram.learn.RestExample [StartupInfoLogger.java:56] - Running with Spring Boot v2.7.2, Spring v5.3.22 
-2022-08-21 14:46:05,675 [restartedMain] INFO  ram.learn.RestExample [SpringApplication.java:634] - No active profile set, falling back to 1 default profile: "default" 
-2022-08-21 14:46:11,878 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:61] - Started RestExample in 6.547 seconds (JVM running for 7.071) 
-2022-08-21 15:52:38,685 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:55] - Starting RestExample using Java 1.8.0_281 on DESKTOP-EJDCSSH with PID 11144 (D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject\bin\main started by Ram iT in D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject) 
-2022-08-21 15:52:38,685 [restartedMain] DEBUG ram.learn.RestExample [StartupInfoLogger.java:56] - Running with Spring Boot v2.7.2, Spring v5.3.22 
-2022-08-21 15:52:38,690 [restartedMain] INFO  ram.learn.RestExample [SpringApplication.java:634] - No active profile set, falling back to 1 default profile: "default" 
-2022-08-21 15:52:45,121 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:61] - Started RestExample in 6.809 seconds (JVM running for 7.437) 
-2022-08-21 15:57:54,454 [http-nio-8087-exec-3] INFO  r.l.c.StudentRestController [StudentRestController.java:71] - Data found here is10 
-2022-08-21 15:57:54,456 [http-nio-8087-exec-3] ERROR r.l.c.StudentRestController [StudentRestController.java:84] - Unable to fetch the data 
-2022-08-21 16:00:37,453 [http-nio-8087-exec-5] INFO  r.l.c.StudentRestController [StudentRestController.java:71] - Data found here is10 
-2022-08-21 16:00:37,454 [http-nio-8087-exec-5] ERROR r.l.c.StudentRestController [StudentRestController.java:84] - Unable to fetch the data 
-2022-08-21 16:01:34,983 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:55] - Starting RestExample using Java 1.8.0_281 on DESKTOP-EJDCSSH with PID 2400 (D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject\bin\main started by Ram iT in D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject) 
-2022-08-21 16:01:34,987 [restartedMain] DEBUG ram.learn.RestExample [StartupInfoLogger.java:56] - Running with Spring Boot v2.7.2, Spring v5.3.22 
-2022-08-21 16:01:34,987 [restartedMain] INFO  ram.learn.RestExample [SpringApplication.java:634] - No active profile set, falling back to 1 default profile: "default" 
-2022-08-21 16:01:41,128 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:61] - Started RestExample in 6.472 seconds (JVM running for 7.048) 
-2022-08-21 16:01:49,450 [http-nio-8087-exec-1] INFO  r.l.c.StudentRestController [StudentRestController.java:71] - Data found here is   10 
-2022-08-21 16:01:49,450 [http-nio-8087-exec-1] ERROR r.l.c.StudentRestController [StudentRestController.java:84] - Unable to fetch the data 
-2022-08-21 16:01:53,149 [http-nio-8087-exec-2] INFO  r.l.c.StudentRestController [StudentRestController.java:71] - Data found here is   10 
-2022-08-21 16:01:53,149 [http-nio-8087-exec-2] ERROR r.l.c.StudentRestController [StudentRestController.java:84] - Unable to fetch the data 
-2022-08-21 16:05:22,560 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:55] - Starting RestExample using Java 1.8.0_281 on DESKTOP-EJDCSSH with PID 10620 (D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject\bin\main started by Ram iT in D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject) 
-2022-08-21 16:05:22,564 [restartedMain] DEBUG ram.learn.RestExample [StartupInfoLogger.java:56] - Running with Spring Boot v2.7.2, Spring v5.3.22 
-2022-08-21 16:05:22,565 [restartedMain] INFO  ram.learn.RestExample [SpringApplication.java:634] - No active profile set, falling back to 1 default profile: "default" 
-2022-08-21 16:05:28,394 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:61] - Started RestExample in 6.25 seconds (JVM running for 6.833) 
-2022-08-21 16:05:28,894 [http-nio-8087-exec-1] INFO  r.l.c.StudentRestController [StudentRestController.java:80] - Data not found10 
-2022-08-21 16:10:51,070 [http-nio-8087-exec-7] INFO  r.l.c.StudentRestController [StudentRestController.java:45] - started storing the data 
-2022-08-21 16:10:51,151 [http-nio-8087-exec-7] DEBUG r.l.c.StudentRestController [StudentRestController.java:49] - data storing::::::::::::11 
-2022-08-21 16:14:05,289 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:55] - Starting RestExample using Java 1.8.0_281 on DESKTOP-EJDCSSH with PID 18568 (D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject\bin\main started by Ram iT in D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject) 
-2022-08-21 16:14:05,289 [restartedMain] DEBUG ram.learn.RestExample [StartupInfoLogger.java:56] - Running with Spring Boot v2.7.2, Spring v5.3.22 
-2022-08-21 16:14:05,289 [restartedMain] INFO  ram.learn.RestExample [SpringApplication.java:634] - No active profile set, falling back to 1 default profile: "default" 
-2022-08-21 16:14:09,593 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:61] - Started RestExample in 4.586 seconds (JVM running for 5.04) 
-2022-08-21 16:14:14,575 [http-nio-8087-exec-2] INFO  r.l.c.StudentRestController [StudentRestController.java:42] - started storing the data 
-2022-08-21 16:14:14,644 [http-nio-8087-exec-2] DEBUG r.l.c.StudentRestController [StudentRestController.java:46] - data storing::::::::::::12 
-2022-08-21 16:14:39,880 [http-nio-8087-exec-3] INFO  r.l.c.StudentRestController [StudentRestController.java:77] - Data not found 12 
-2022-08-21 16:16:18,830 [http-nio-8087-exec-5] INFO  r.l.c.StudentRestController [StudentRestController.java:77] - Data not found 12 
-2022-08-21 16:16:48,263 [http-nio-8087-exec-7] INFO  r.l.c.StudentRestController [StudentRestController.java:68] - Data found here is   0 
-2022-08-21 16:17:02,930 [http-nio-8087-exec-9] INFO  r.l.c.StudentRestController [StudentRestController.java:42] - started storing the data 
-2022-08-21 16:17:02,944 [http-nio-8087-exec-9] DEBUG r.l.c.StudentRestController [StudentRestController.java:46] - data storing::::::::::::13 
-2022-08-21 16:17:24,443 [http-nio-8087-exec-3] INFO  r.l.c.StudentRestController [StudentRestController.java:77] - Data not found 1 
-2022-08-21 16:18:01,341 [http-nio-8087-exec-4] INFO  r.l.c.StudentRestController [StudentRestController.java:77] - Data not found 1 
-2022-08-21 16:18:11,673 [http-nio-8087-exec-5] INFO  r.l.c.StudentRestController [StudentRestController.java:42] - started storing the data 
-2022-08-21 16:18:11,686 [http-nio-8087-exec-5] DEBUG r.l.c.StudentRestController [StudentRestController.java:46] - data storing::::::::::::14 
-2022-08-21 16:18:28,914 [http-nio-8087-exec-6] INFO  r.l.c.StudentRestController [StudentRestController.java:42] - started storing the data 
-2022-08-21 16:18:28,930 [http-nio-8087-exec-6] DEBUG r.l.c.StudentRestController [StudentRestController.java:46] - data storing::::::::::::15 
-2022-08-21 16:18:57,098 [http-nio-8087-exec-7] INFO  r.l.c.StudentRestController [StudentRestController.java:77] - Data not found 3 
-2022-08-21 16:18:59,336 [http-nio-8087-exec-8] INFO  r.l.c.StudentRestController [StudentRestController.java:77] - Data not found 3 
-2022-08-21 16:19:03,476 [http-nio-8087-exec-9] INFO  r.l.c.StudentRestController [StudentRestController.java:77] - Data not found 3 
-2022-08-21 16:20:06,838 [http-nio-8087-exec-4] INFO  r.l.c.StudentRestController [StudentRestController.java:42] - started storing the data 
-2022-08-21 16:20:06,846 [http-nio-8087-exec-4] DEBUG r.l.c.StudentRestController [StudentRestController.java:46] - data storing::::::::::::16 
-2022-08-21 16:21:43,838 [http-nio-8087-exec-7] INFO  r.l.c.StudentRestController [StudentRestController.java:42] - started storing the data 
-2022-08-21 16:21:43,854 [http-nio-8087-exec-7] DEBUG r.l.c.StudentRestController [StudentRestController.java:46] - data storing::::::::::::17 
-2022-08-21 16:23:16,242 [http-nio-8087-exec-9] INFO  r.l.c.StudentRestController [StudentRestController.java:77] - Data not found 5 
-2022-08-21 16:23:17,630 [http-nio-8087-exec-1] INFO  r.l.c.StudentRestController [StudentRestController.java:77] - Data not found 5 
-2022-08-21 16:23:32,870 [http-nio-8087-exec-2] INFO  r.l.c.StudentRestController [StudentRestController.java:77] - Data not found 5 
-2022-08-21 16:30:01,803 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:55] - Starting RestExample using Java 1.8.0_281 on DESKTOP-EJDCSSH with PID 18452 (D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject\bin\main started by Ram iT in D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject) 
-2022-08-21 16:30:01,803 [restartedMain] DEBUG ram.learn.RestExample [StartupInfoLogger.java:56] - Running with Spring Boot v2.7.2, Spring v5.3.22 
-2022-08-21 16:30:01,803 [restartedMain] INFO  ram.learn.RestExample [SpringApplication.java:634] - No active profile set, falling back to 1 default profile: "default" 
-2022-08-21 16:30:06,046 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:61] - Started RestExample in 4.512 seconds (JVM running for 4.982) 
-2022-08-21 16:30:24,856 [http-nio-8087-exec-1] INFO  r.l.c.StudentRestController [StudentRestController.java:68] - Data found here is   5 
-2022-08-21 16:31:22,763 [http-nio-8087-exec-2] INFO  r.l.c.StudentRestController [StudentRestController.java:68] - Data found here is   5 
-2022-08-21 16:32:00,548 [http-nio-8087-exec-6] INFO  r.l.c.StudentRestController [StudentRestController.java:68] - Data found here is   5 
-2022-08-21 16:33:35,127 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:55] - Starting RestExample using Java 1.8.0_281 on DESKTOP-EJDCSSH with PID 12840 (D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject\bin\main started by Ram iT in D:\Project\MY projects\REST_CONCEPTIAL_CODES\SpringRestExampleProject) 
-2022-08-21 16:33:35,127 [restartedMain] DEBUG ram.learn.RestExample [StartupInfoLogger.java:56] - Running with Spring Boot v2.7.2, Spring v5.3.22 
-2022-08-21 16:33:35,127 [restartedMain] INFO  ram.learn.RestExample [SpringApplication.java:634] - No active profile set, falling back to 1 default profile: "default" 
-2022-08-21 16:33:39,289 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:61] - Started RestExample in 4.433 seconds (JVM running for 4.913) 
-2022-08-21 16:36:37,923 [http-nio-8087-exec-1] INFO  r.l.c.StudentRestController [StudentRestController.java:68] - Data found here is   5 
-2022-08-21 16:39:54,049 [http-nio-8087-exec-5] INFO  r.l.c.StudentRestController [StudentRestController.java:42] - started storing the data 
-2022-08-21 16:39:54,081 [http-nio-8087-exec-5] DEBUG r.l.c.StudentRestController [StudentRestController.java:46] - data storing::::::::::::13 
-2022-08-21 16:40:25,775 [http-nio-8087-exec-6] INFO  r.l.c.StudentRestController [StudentRestController.java:42] - started storing the data 
-2022-08-21 16:40:25,815 [http-nio-8087-exec-6] DEBUG r.l.c.StudentRestController [StudentRestController.java:46] - data storing::::::::::::18 
-2022-08-21 16:40:46,921 [http-nio-8087-exec-7] INFO  r.l.c.StudentRestController [StudentRestController.java:42] - started storing the data 
-2022-08-21 16:40:46,929 [http-nio-8087-exec-7] DEBUG r.l.c.StudentRestController [StudentRestController.java:46] - data storing::::::::::::19 
-2022-08-21 16:40:58,379 [http-nio-8087-exec-8] INFO  r.l.c.StudentRestController [StudentRestController.java:68] - Data found here is   7 
+2023-04-13 17:34:29,748 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:55] - Starting RestExample using Java 1.8.0_331 on DESKTOP-SS6D7EQ with PID 15828 (G:\Learning\SpringRestExampleProject\bin\main started by User in G:\Learning\SpringRestExampleProject) 
+2023-04-13 17:34:29,748 [restartedMain] DEBUG ram.learn.RestExample [StartupInfoLogger.java:56] - Running with Spring Boot v2.7.2, Spring v5.3.22 
+2023-04-13 17:34:29,748 [restartedMain] INFO  ram.learn.RestExample [SpringApplication.java:634] - No active profile set, falling back to 1 default profile: "default" 
+2023-04-13 17:34:36,680 [restartedMain] INFO  ram.learn.RestExample [StartupInfoLogger.java:61] - Started RestExample in 7.588 seconds (JVM running for 8.359) 
+2023-04-13 17:34:51,636 [http-nio-8087-exec-3] INFO  r.l.c.StudentRestController [StudentRestController.java:80] - Data found here is   5 
+2023-04-13 17:34:56,289 [http-nio-8087-exec-6] INFO  r.l.c.StudentRestController [StudentRestController.java:80] - Data found here is   4 
+2023-04-13 17:34:57,988 [http-nio-8087-exec-4] INFO  r.l.c.StudentRestController [StudentRestController.java:141] - Std id exist is 
+2023-04-13 17:35:02,333 [http-nio-8087-exec-9] INFO  r.l.c.StudentRestController [StudentRestController.java:80] - Data found here is   4 
+2023-04-13 17:35:16,295 [http-nio-8087-exec-3] INFO  r.l.c.StudentRestController [StudentRestController.java:53] - started storing the data 
+2023-04-13 17:35:16,328 [http-nio-8087-exec-3] DEBUG r.l.c.StudentRestController [StudentRestController.java:57] - data storing::::::::::::17 
+2023-04-13 17:35:19,266 [http-nio-8087-exec-5] INFO  r.l.c.StudentRestController [StudentRestController.java:80] - Data found here is   5 
